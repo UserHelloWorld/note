@@ -1,0 +1,36 @@
+command + option + esc 打开强制退出窗口 
+Command + option + H 隐藏其他应用程序窗口 (hide)
+command + 右箭头   将光标移至当前的行尾
+command + 左箭头   将光标移至当前的行首
+option  + 右箭头   将光标移至下一个单词的末尾
+option  +  左箭头  将光标移至上一个单词的行首
+command + O   打开所选项 (open)
+command + N 新建文件 （new）
+command + shift + N  新建工程
+command + Q  退出应用程序 （quit）
+command + W 关闭当前窗口 （离Q最近）
+command +I  查看详情 （info）
+command  + 逗号  打开偏好设置
+Command + control + 空格   调出表情包🚀
+
+在浏览器中
+command + T    新建标签页 (tab)
+control+ tab 下一个标签页 
+control + shift + tab 上一个标签页
+command + L 跳到地址栏 (location)
+command + R 刷新页面 
+command +加号  放大页面
+command  + 减号  缩小页面
+
+
+fn + delete 向后删除
+fn + 上箭头 向上滚动一页
+
+shift + command + C  打开电脑文件  （computer）
+shift + command + D  打开桌面  （desktop）
+Shift + command + G  前往文件夹
+shift + command + R  打开AirDorp
+
+
+// 苹果快捷键
+https://support.apple.com/zh-cn/HT201236 
