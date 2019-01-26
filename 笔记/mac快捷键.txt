@@ -12,6 +12,7 @@ command + W 关闭当前窗口 （离Q最近）
 command +I  查看详情 （info）
 command  + 逗号  打开偏好设置
 Command + control + 空格   调出表情包🚀
+Command + shift + . 显示与隐藏 隐藏文件
 
 在浏览器中
 command + T    新建标签页 (tab)
@@ -23,6 +24,8 @@ command +加号  放大页面
 command  + 减号  缩小页面
 
 
+
+
 fn + delete 向后删除
 fn + 上箭头 向上滚动一页
 
@@ -30,6 +33,9 @@ shift + command + C  打开电脑文件  （computer）
 shift + command + D  打开桌面  （desktop）
 Shift + command + G  前往文件夹
 shift + command + R  打开AirDorp
+
+
+文本编辑器转换成纯文本快捷键 command + shift + T
 
 
 // 苹果快捷键
